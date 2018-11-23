@@ -10,4 +10,4 @@
 # Ingredient.create(name: "mint leaves")
 # Cocktail.create(name: "Mojito")
 # Cocktail.create(name: "Randco")
-# Cocktail.create(name: "Cocktail-rand")
+
